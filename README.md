@@ -1,2 +1,2 @@
-# shortcuts
-convenient shortcuts
+# VSCode
+* `cmd` + `k` + `0` : fold all
