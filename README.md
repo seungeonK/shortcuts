@@ -1,2 +1,3 @@
 # VSCode
-* `cmd` + `k` + `0` : fold all
+* **Fold All** : `cmd` + `k` + `0`
+* **Show Call Hierarchy** : `option` + `shift` + `H`
